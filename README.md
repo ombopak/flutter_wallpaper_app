@@ -1,4 +1,4 @@
-# wallpaper_app
+# wallpaper app
 
 - Fetch data from an API with flutter
 - How useState in a flutter app
