@@ -6,10 +6,15 @@
 - How to show a grid view 
 - save the image to local storage (Gallery) for both Android And IOS
 
-<img src="https://user-images.githubusercontent.com/74084664/198813640-489c48d2-281a-4716-93f8-08e8511b5607.jpeg" width=100px height=300px>
-<img src="https://user-images.githubusercontent.com/74084664/198813643-29264593-b477-4f19-aa86-e0fa1dca05b1.jpeg" width=100px height=300px>
-<img src="https://user-images.githubusercontent.com/74084664/198813645-91eac99c-d263-4997-9fb9-58e49588ba65.jpeg" width=100px height=300px>
-<img src="https://user-images.githubusercontent.com/74084664/198813646-ecc2d3ed-879a-4d16-a947-ecc73d2a04ca.jpeg" width=100px height=300px>
+Home screen
+<img src="https://user-images.githubusercontent.com/74084664/198813646-ecc2d3ed-879a-4d16-a947-ecc73d2a04ca.jpeg" width=200px height=300px>
+
+Image view screen
+<img src="https://user-images.githubusercontent.com/74084664/198813640-489c48d2-281a-4716-93f8-08e8511b5607.jpeg" width=200px height=300px>
+
+<img src="https://user-images.githubusercontent.com/74084664/198813643-29264593-b477-4f19-aa86-e0fa1dca05b1.jpeg" width=200px height=300px>
+
+<img src="https://user-images.githubusercontent.com/74084664/198813645-91eac99c-d263-4997-9fb9-58e49588ba65.jpeg" width=200px height=300px>
 
 
 ## Getting Started
